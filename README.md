@@ -21,6 +21,8 @@ This library is a result of 3 of 42 school projects:
 
 The goal was to recode some of the well known and used public libraries functions as well as some others. More detailed info below and in their own Readme files.
 
+---
+
 ## Instructions
 The project is compiled by using `Makefile`:
 
@@ -32,8 +34,9 @@ make re				# to do make fclean and make all together
 ```
 To use the functions from the library in your own project, add this include in your files:
 ```c
-include "libft.a"
+#include "libft.a"
 ```
+---
 
 ## Contents
 

@@ -6,10 +6,11 @@
 /*   By: ssucha <ssucha@student.42prague.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/25 12:01:49 by ssucha            #+#    #+#             */
-/*   Updated: 2026/02/11 18:50:10 by ssucha           ###   ########.fr       */
+/*   Updated: 2026/02/11 18:59:02 by ssucha           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
 #include "get_next_line.h"
 
 static void	*free_stash(char **stash);
